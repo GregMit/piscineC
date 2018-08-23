@@ -1,0 +1,8 @@
+redentials cache: API:352E8DF2-6728-47D1-80CF-7C4749D30098
+        Principal: glamit@42.FR
+
+		  Issued                Expires               Principal
+		  Jul 30 13:09:06 2018  Aug  6 13:09:06 2018  krbtgt/42.FR@42.FR
+		  Jul 30 13:09:07 2018  Aug  6 13:09:06 2018  ldap/ldap-proxy.42.fr@42.FR
+		  Jul 30 13:09:08 2018  Aug  6 13:09:06 2018  HTTP/student-storage-2.42.fr@42.FR
+		  Jul 30 13:45:52 2018  Aug  6 13:09:06 2018  host/vgs-fn1.42.fr@42.FR
